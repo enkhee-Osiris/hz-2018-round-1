@@ -2,6 +2,11 @@
 
 http://218.100.84.106:5008/index.php
 
+![screenshot](https://github.com/enkhee-Osiris/hz-2018-round-1/blob/master/ppc/Legend%20PPC/ppc-legend-ppc.jpeg)
+
+Энэхүү даалгавар нь тооны зэргийг бодоод гарсан хариуны цифрийн уртыг олоод **Post** хүсэлт явуулах ёстой.  
+Хэрэв та математикдаа сайн бол **log10** ашиглан үүнийг амархан бодож болно.
+
 ```python
 import re
 import math
@@ -31,3 +36,7 @@ while True:
         print("FLAG IS: " + flag.group(0))
         break
 ```
+
+Дээрх python скриптыг ажилуулвал дараах тугийг хэвлэх болно.
+
+`FLAG IS: HZ18{S1mPl3_M4th_0x6v1lqq09mx}`
