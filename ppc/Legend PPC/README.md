@@ -2,6 +2,8 @@
 
 http://218.100.84.106:5008/index.php
 
+## Writeup
+
 ![screenshot](https://github.com/enkhee-Osiris/hz-2018-round-1/blob/master/ppc/Legend%20PPC/ppc-legend-ppc.jpeg)
 
 Энэхүү даалгавар нь тооны зэргийг бодоод гарсан хариуны цифрийн уртыг олоод **Post** хүсэлт явуулах ёстой.  
