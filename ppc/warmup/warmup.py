@@ -21,4 +21,4 @@ r = requests.post("http://218.100.84.106:5006/index.php", data={'answer':int(fla
 hz = re.search(r'HZ\{\S+\}', r.text)
 if flag:
 	print("Flag is: " + hz.group(0))
-	# Flag HZ{S1mPl3_M4th_0x3df4f1d15d528}
+	# Flag is: HZ{S1mPl3_M4th_0x3d4e5a}
