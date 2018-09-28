@@ -1,8 +1,5 @@
-## Legend PPC
+#!/usr/bin/env python
 
-http://218.100.84.106:5008/index.php
-
-```python
 import re
 import math
 import requests
@@ -30,4 +27,3 @@ while True:
     if flag:
         print("FLAG IS: " + flag.group(0))
         break
-```
